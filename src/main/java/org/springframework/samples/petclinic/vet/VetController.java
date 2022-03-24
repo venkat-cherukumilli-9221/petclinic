@@ -28,7 +28,7 @@ import java.util.Map;
  * @author Arjen Poutsma
  */
 @Controller
-class VetController {
+public class VetController {
 
 	private final VetRepository vets;
 
